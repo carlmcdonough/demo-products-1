@@ -1,0 +1,15 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+**/.vs/*
+
+**/bin/*
+**/obj/*
+**/Properties/*
+
+**/*.user
+/src/api-internal-client-funds/appsettings.development.json
+/test-api-demo-products/GlobalUsings.cs
+/api-demo-products/.config
+/api-demo-products/appsettings.Development.json
