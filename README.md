@@ -14,7 +14,6 @@ Technology used:
 - .Net Core 6 (LTS)
 - Entity Framework Core 7
 - Azure SQL
-- Hosted in Azure
 
 
 For any questions/concerns, feel free to raise them in the issues tab.
