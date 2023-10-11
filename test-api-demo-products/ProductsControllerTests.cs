@@ -70,7 +70,6 @@ namespace test_api_demo_products
             productsController = new ProductsController(mockProductManager.Object ,logger);
         }
 
-
         #region GetProductTests
         [Test]
         public void GetProduct_200Ok_Test()
