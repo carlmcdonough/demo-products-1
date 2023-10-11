@@ -5,6 +5,7 @@ using api_demo_products.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Moq;
+using NUnit.Framework;
 
 namespace test_api_demo_products
 {
